@@ -21,7 +21,7 @@ SV = 0.5
 P = 1 - SV
 SAVE = True
 
-file = 'dream' + str(DREAM) + str(DS) + '.pkl'
+file = './data/dream' + str(DREAM) + str(DS) + '.pkl'
 print(file)
 print(SV)
 
